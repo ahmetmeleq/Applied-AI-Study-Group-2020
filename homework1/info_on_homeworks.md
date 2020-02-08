@@ -6,7 +6,7 @@
 
 - We will take an input image, and detect the "keypoints" in the image. Our dataset consists of hands, and the so called keypoints are the joint locations of the hand. We will regress from the image matrices to the keypoint location vectors.
 
-- Plagiarism is worse than non-submission. (just dont copy paste code that is: written by someone else to do this homework)
+- Copy-paste is worse than non-submission. (just dont copy paste code that is: written by someone else to do this homework)
 
 - Note that this homework is not a liability, instead it is only to benefit your skills.
 
