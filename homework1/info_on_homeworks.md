@@ -23,6 +23,7 @@ Steps:
 
 4- After creation of the relevant txt files, you need to 'pickle' the dataset. Pickle is a format to save the objects in python. 
 	So you need to: 
+	
 		- read the joint labels and bounding box labels from the text files, 
 		- read the image data from .jpg files; 
 		- write the image data, bounding box labels and joint coordinate labels in a pickle file.
