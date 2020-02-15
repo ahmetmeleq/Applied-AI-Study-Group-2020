@@ -1,6 +1,6 @@
 # Applied-AI-Study-Group-2020
 
-***other homeworks are below!***
+## Descritions of Homeworks
 
 ### Homework 1
 
