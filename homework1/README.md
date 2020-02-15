@@ -1,5 +1,7 @@
 # Applied-AI-Study-Group-2020
 
+***other homeworks are below!***
+
 ### Homework 1
 
 - This homework will benefit your data preprocessing skills and model building skills on computer vision. 
