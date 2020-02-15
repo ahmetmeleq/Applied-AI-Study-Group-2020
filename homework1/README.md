@@ -71,6 +71,6 @@ Please submit your homeworks into the repository as:
 	1- form a folder with the names of your team members: person1name_person1surname-'and'-person2name_person2surname
 	2- inside the folder put: preprocessing.ipynb
 	3- inside the folder put: model.ipynb
-	4-load your pickle files into your google drive, copy the share link, share the link in our discord channel.
+	4- load your pickle files into your google drive, copy the share link, share the link in our discord channel.
 
 
