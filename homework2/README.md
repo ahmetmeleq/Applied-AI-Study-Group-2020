@@ -33,17 +33,18 @@ Preperations: Scraping Data and trying to understand the Architecture:
 
 
 
+Some beneficial links and tutorials:
 
-Text Generation without a transformer (entry level): https://medium.com/@shivambansal36/language-modelling-text-generation-using-lstms-deep-learning-for-nlp-ed36b224b275
+	Text Generation without a transformer (entry level): https://medium.com/@shivambansal36/language-modelling-text-generation-using-lstms-deep-learning-for-nlp-ed36b224b275
 
-Text Generation without a transformer (more intermediate): https://medium.com/phrasee/neural-text-generation-generating-text-using-conditional-language-models-a37b69c7cd4b
+	Text Generation without a transformer (more intermediate): https://medium.com/phrasee/neural-text-generation-generating-text-using-conditional-language-models-a37b69c7cd4b
 
 
-To understand encoder-decoders: https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066
+	To understand encoder-decoders: https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066
 
-To understand transformers (high-level overview): https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
+	To understand transformers (high-level overview): https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
 
-To understand transformers (more low-level, technical): http://jalammar.github.io/illustrated-transformer/
+	To understand transformers (more low-level, technical): http://jalammar.github.io/illustrated-transformer/
 
-Transformer XL (an upgraded version of the transformer): https://towardsdatascience.com/transformer-xl-explained-combining-transformers-and-rnns-into-a-state-of-the-art-language-model-c0cfe9e5a924
+	Transformer XL (an upgraded version of the transformer): https://towardsdatascience.com/transformer-xl-explained-combining-transformers-and-rnns-into-a-state-of-the-art-language-model-c0cfe9e5a924
 
