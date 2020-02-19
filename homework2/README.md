@@ -1,7 +1,7 @@
 
 ## Homework 2 - Text Generation
 
-- This homework will make you familiar with existing scraping tools, using them to scrape an NLP dataset from web. 
+- This homework will make you familiar with existing scraping tools and using them to scrape an NLP dataset from web. 
 
 - It will optionally make you familiar with state of the art Natural Language Generation architecture and some niche Natural Language Processing tools such as the attention mechanism. This is a quite valuable kind of knowledge today.
 
