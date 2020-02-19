@@ -1,5 +1,5 @@
 
-### Homework 2
+## Homework 2 - Text Generation
 
 - This homework will make you familiar with existing scraping tools, using them to scrape an NLP dataset from web. 
 
@@ -67,7 +67,7 @@ https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9
 
 
 
-Some beneficial links and tutorials:
+#### Materials on Text Generation and other stuff:
 
 	a- Text Generation without a transformer (entry level): https://medium.com/@shivambansal36/language-modelling-text-generation-using-lstms-deep-learning-for-nlp-ed36b224b275
 
