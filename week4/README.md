@@ -121,7 +121,7 @@ Appendix Week 4:
 
 
 
-			Other ML Algorithms:
+			Other Algorithms:
 
 				- Capsule Networks
 				- Non-Negative Matrix Factorization for Recommender Systems
