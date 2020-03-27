@@ -6,7 +6,7 @@ In the group we have worked on these subjects:
 
 * Frameworks: Tensorflow, Keras, SystemML, DL4J, Apache Spark, Pytorch
 
-* Topics: Image Classification, Image Generation (Image Restoration/Inpainting),Text Classification, Time Series Forecasting, Anomaly Detection, Scaling Machine Learning Projects (Big Data Frameworks - Distributed Computing Frameworks)  Text Generation, PCA (Eigenface method), Structured Data Classification, Exploratory Data Analysis, Data Preprocessing, Data Acquisition, GANs (Generative Adverserial Networks)
+* Topics: Image Classification, Image Generation (Image Restoration/Inpainting), Computer Vision (Detections), Text Classification, Time Series Forecasting, Anomaly Detection, Scaling Machine Learning Projects (Big Data Frameworks - Distributed Computing Frameworks)  Text Generation, PCA (Eigenface method), Structured Data Classification, Exploratory Data Analysis, Data Preprocessing, Data Acquisition, GANs (Generative Adverserial Networks)
 
 * Architectures - Methods: Multilayer Perceptron (Fully-Connected Neural Networks), Convolutional Neural Networks (CNN), Long-Short Term Memory (LSTM), Autoencoders, GANs, Logistic Regression, KNN, SVM, Bayesian Methods, Decision Trees, PCA, LDA, Bootstrap Aggregating Methods, Gradient Boosting Methods
 
